@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`todolist sholud render with filtered list 1`] = `
+<ul>
+  <li>
+    Satu
+  </li>
+</ul>
+`;
+
+exports[`todolist sholud render with filtered list 2`] = `
+<ul>
+  <li>
+    Satu
+  </li>
+  <li>
+    Dua
+  </li>
+</ul>
+`;
+
+exports[`todolist sholud render with filtered list 3`] = `
+<ul>
+  <li>
+    Satu
+  </li>
+  <li>
+    Tiga
+  </li>
+</ul>
+`;
+
+exports[`todolist should render with list 1`] = `
+<ul>
+  <li>
+    Satu
+  </li>
+  <li>
+    Dua
+  </li>
+  <li>
+    Tiga
+  </li>
+</ul>
+`;
+
+exports[`todolist should render with no list 1`] = `
+<ul>
+  <li>
+    No Item
+  </li>
+</ul>
+`;
